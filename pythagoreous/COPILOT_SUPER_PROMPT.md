@@ -1,0 +1,1 @@
+<file:pythagoreous/COPILOT_SUPER_PROMPT.md>
